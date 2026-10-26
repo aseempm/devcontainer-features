@@ -1,0 +1,6 @@
+{
+    "id": "bun",
+    "version": "1.0.0",
+    "name": "Bun Toolkit",
+    "description": "Minimal Debian-optimized Bun installation feature."
+}
